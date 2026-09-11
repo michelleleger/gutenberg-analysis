@@ -9,7 +9,8 @@ Michelle M. Leger
 ## Books
 
 | Gutenberg ID | Title | Author | Source URL |
-|36903|Marvels of Pond-life|Henry James Slack|https://www.gutenberg.org/ebooks/36903|
+|36903|Marvels of Pond-life|Henry James Slack|<https://www.gutenberg.org/ebooks/36903|>
+| 00084 | Frankenstein; or, the Modern Prometheus | Mary Wollstonecraft Shelley | <https://www.gutenberg.org/ebooks/84> |
 
 ## Filename convention
 
@@ -19,6 +20,7 @@ Book files use `<five-digit-gutenberg-id>_<hyphenated-short-title>.txt`.
 
 - `README.md`: project description and book inventory
 - `36903_marvels_of_pond-life.txt`: plain text of *Marvels of Pond-life*
+- `00084_frankenstein.txt`: plain text of *Frankenstein*
 
 ## Setup
 
